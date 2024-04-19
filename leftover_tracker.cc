@@ -1,9 +1,8 @@
-// Please fill in below.
-// <Your name>
-// <Your section number> (e.g. CPSC 121L-01)
-// <Date>
-// <Your csu.fullerton.edu email>
-// <Your GitHub username>
+// Jemin Song
+// CPSC 121L-02
+// 4/18/2024
+// jeminsong0119@csu.fullerton.edu
+// @jeminsong
 
 #include "leftover_tracker.h"
 
